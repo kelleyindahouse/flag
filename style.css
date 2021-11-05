@@ -1,0 +1,14 @@
+.container-fluid {
+ height: 500px;
+ display: grid;
+ background-color: rgb(214, 16, 16);
+ border: 1px solid black;
+}
+
+.white {
+ background-color: white;
+}
+
+.blue {
+ background-color: blue;
+}
